@@ -87,7 +87,6 @@ class MataKuliah {
         }
     }
 }
-
 public class DataMahasiswa {
     public static void main(String[] args) {
         String namaMahasiswa = "Iqbal";
