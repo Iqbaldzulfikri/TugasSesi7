@@ -1,8 +1,9 @@
 import java.util.Scanner;
-import java.lang.Math;
 
 public class HitungGajiLembur {
+
     public static void main(String[] args) {
+    
         Scanner Scanner = new Scanner(System.in);
 
         System.out.print("Masukkan gaji bulanan: ");
@@ -30,7 +31,9 @@ public class HitungGajiLembur {
 
 
 public class PolaLoop {
+
     public static void main(String[] args) {
+    
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 if (j < 3 - i) {
@@ -48,6 +51,7 @@ public class PolaLoop {
 import java.util.ArrayList;
 
 class MataKuliah {
+
     String namaMataKuliah;
     int sks;
     double nilai;
